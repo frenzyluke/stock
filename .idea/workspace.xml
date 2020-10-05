@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83ce4ec9-2863-4a93-b990-abb25bc8bbb3" name="Default Changelist" comment="" />
+    <list default="true" id="83ce4ec9-2863-4a93-b990-abb25bc8bbb3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data/2317/2019_InstitutionalInvestorsBuySell.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/2317/2019_TaiwanStockPER.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/2317/2019_TaiwanStockPrice.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/2317/TaiwanStockPrice/2019.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stock_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/stock_data.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +22,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iJ9ulY8jfiuWGVsLJv6FHuZiXM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -31,7 +47,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demo">
+  <component name="RunManager" selected="Python.stock_data">
     <configuration name="TWSE+crawler+Enhanced+version" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="stock" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,9 +94,6 @@
       <module name="stock" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -118,10 +131,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.stock_data" />
         <item itemvalue="Python.demo" />
         <item itemvalue="Python.test_load" />
         <item itemvalue="Python.TWSE+crawler+Enhanced+version" />
-        <item itemvalue="Python.stock_data" />
       </list>
     </recent_temporary>
   </component>
@@ -137,6 +150,22 @@
       <updated>1601615052689</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

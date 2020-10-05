@@ -1,0 +1,6 @@
+,date,stock_id,buy,name,sell
+0,2020-10-05,2317,72000,Dealer_Hedging,54000
+1,2020-10-05,2317,192000,Dealer_self,200000
+2,2020-10-05,2317,0,Foreign_Dealer_Self,0
+3,2020-10-05,2317,9115190,Foreign_Investor,8950288
+4,2020-10-05,2317,0,Investment_Trust,0
